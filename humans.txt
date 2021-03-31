@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Carlos Uriel Fregoso Espericueta carlosuriel99@hotmai.com @charlie4432
+	
 # THANKS
 
     <name>
