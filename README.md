@@ -1,8 +1,7 @@
 # Starter Web Project
 
 This is a sample website project for showing hot to use Git an Github together.
-Adding something to do a little of everything, there are
-more changes form myfeature branch
+Updaate fix after stash
 
 ## Introduction
 
